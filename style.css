@@ -1,0 +1,27 @@
+h1{
+    border: 4mm ridge #ee9ca7;
+    color: white;
+    background-color: #ee9ca7;
+    width: 24%;
+    margin: 0 auto;
+    font-weight: bold;
+}
+body{
+    background-color: #654ea3;
+
+}
+.bouton_1,
+.bouton_2,
+.bouton_3,
+.bouton_4 {
+        border: 4mm ridge #ee9ca7;
+        border-radius: 50px;
+        width: 15%;
+        background-color: #ee9ca7;
+        text-align: center;
+        display: inline-block; 
+        margin: 42px; 
+}
+p{
+    color: white;
+}
