@@ -5,6 +5,7 @@ h1{
     width: 24%;
     margin: 0 auto;
     font-weight: bold;
+
 }
 body{
     background-color: #654ea3;
@@ -20,7 +21,9 @@ body{
         background-color: #ee9ca7;
         text-align: center;
         display: inline-block; 
-        margin: 42px; 
+        margin: 42px;
+        cursor: pointer;
+        
 }
 p{
     color: white;
@@ -29,4 +32,17 @@ img {
     border-radius: 10%;
     width: 50%;
     margin-left: 22%;
+}
+
+.bouton_4:hover {
+background-color: bisque;
+}
+.bouton_3:hover {
+background-color: bisque;
+}
+.bouton_2:hover {
+background-color: bisque;
+}
+.bouton_1:hover {
+background-color: bisque;
 }
