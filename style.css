@@ -5,6 +5,7 @@ h1{
     width: 24%;
     margin: 0 auto;
     font-weight: bold;
+    text-align: center;     /* alignement du texte dans le bouton */
 
 }
 body{
@@ -45,4 +46,8 @@ background-color: bisque;
 }
 .bouton_1:hover {
 background-color: bisque;
+}
+
+.footer {           /* Alignement centre des mentions spéciales */
+    text-align: center;
 }
